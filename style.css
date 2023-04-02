@@ -1,0 +1,57 @@
+.mainbody{
+    background-image: url(images/MCU-InfinityWar.jpg)  ;
+    background-size: 100%;
+    background-position: fixed;
+}
+.list li{
+    display: inline-block;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: small;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+     }
+  .list a{
+    color: aliceblue;
+   }  
+a img:hover{
+    transform: scale(1.5);
+    
+}   
+.moviesseries{
+    background-color: rgba(245, 245, 245, 0.096);
+    margin-top: 100px; 
+    margin: 100px 38.5px;
+}
+h3{
+    color: white; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+table{
+    width: 100%;
+}
+
+
+.signupbody{
+    background-image: url(images/CBs3Xg.jpg);
+    background-size: 100%;
+}
+.inputbox{
+    padding: 6px ;
+    width: 100%;
+    box-sizing: content-box;
+    display: inline-block;
+    border: 1px solid #ccc;
+    }
+form{
+    margin: 30px 500px ;
+    background-color: aliceblue; 
+    padding: 30px;
+    text-align: center; 
+} 
+h2{
+    text-align: center;
+} 
+button{
+    padding: 5px;
+}  
